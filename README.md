@@ -1,5 +1,3 @@
-henry is a boy
-
 # Git Practice
 
 A hands-on repository created to learn and practice Git and GitHub through practical exercises.
